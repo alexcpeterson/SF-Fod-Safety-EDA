@@ -1,2 +1,2 @@
-# SF Fod Safety EDA
+# SF Food Safety EDA
  EDA practice with San Fransisco inspection data
